@@ -1,0 +1,147 @@
+[
+
+    {
+        "name":"Aston Martin DB12",
+        "price":"978",
+        "year":"2012",
+        "speed":"8.4",
+        "fuel":"Hybrid",
+        "image":"../src/Images/cars/Aston Martin DB12.PNG"
+    },
+
+    {
+        "name":"Bajaj Qute (RE60)",
+        "price":"776",
+        "year":"2021",
+        "speed":"8.9",
+        "fuel":"Gasoline",
+        "image":"../src/Images/cars/Bajaj Qute (RE60).PNG"
+    },
+
+    {
+        "name":"BMW 6 Series",
+        "price":"667",
+        "year":"2022",
+        "speed":"7.3",
+        "fuel":"Hybrid",
+        "image":"../src/Images/cars/BMW 6 Series.PNG"
+    },
+
+    {
+        "name":"Honda Amaze",
+        "price":"784",
+        "year":"2021",
+        "speed":"7.2",
+        "fuel":"Gasoline",
+        "image":"../src/Images/cars/Honda Amaze.PNG"
+    },
+
+    {
+        "name":"Honda City",
+        "price":"876",
+        "year":"2020",
+        "speed":"8.3",
+        "fuel":"Hybrid",
+        "image":"../src/Images/cars/Honda city.PNG"
+    },
+
+    {
+        "name":"Hyundai Creta",
+        "price":"792",
+        "year":"2019",
+        "speed":"6.3",
+        "fuel":"Gasoline",
+        "image":"../src/Images/cars/Hyundai Creta.PNG"
+    },
+
+    {
+        "name":"Hyundai Exter",
+        "price":"657",
+        "year":"2015",
+        "speed":"7.4",
+        "fuel":"Hybrid",
+        "image":"../src/Images/cars/Hyundai Exter.PNG"
+    },
+
+    {
+        "name":"Kia Carens",
+        "price":"774",
+        "year":"2017",
+        "speed":"5.7",
+        "fuel":"Gasoline",
+        "image":"../src/Images/cars/Kia Carens.PNG"
+    },
+
+    {
+        "name":"Mahidra Thar",
+        "price":"787",
+        "year":"2018",
+        "speed":"7.5",
+        "fuel":"Hybrid",
+        "image":"../src/Images/cars/Mahidra Thar.PNG"
+    },
+
+    {
+        "name":"Maruti Alto 800",
+        "price":"783",
+        "year":"2016",
+        "speed":"6.5",
+        "fuel":"Gasoline",
+        "image":"../src/Images/cars/Maruti Alto 800.PNG"
+    },
+
+    {
+        "name":"Maruti Alto K10",
+        "price":"724",
+        "year":"2021",
+        "speed":"6.4",
+        "fuel":"Hybrid",
+        "image":"../src/Images/cars/Maruti Alto K10.PNG"
+    },
+
+    {
+        "name":"Maruti Brezza",
+        "price":"924",
+        "year":"2015",
+        "speed":"5.4",
+        "fuel":"Gasoline",
+        "image":"../src/Images/cars/Maruti Brezza.PNG"
+    },
+
+    {
+        "name":"Maruti S-Presso",
+        "price":"923",
+        "year":"2016",
+        "speed":"4.6",
+        "fuel":"Hybrid",
+        "image":"../src/Images/cars/Maruti S-Presso.PNG"
+    },
+
+    {
+        "name":"Renault KWID",
+        "price":"824",
+        "year":"2017",
+        "speed":"5.8",
+        "fuel":"Gasoline",
+        "image":"../src/Images/cars/Renault KWID.PNG"
+    },
+
+    {
+        "name":"Tata Nexon",
+        "price":"876",
+        "year":"2013",
+        "speed":"6.7",
+        "fuel":"Hybrid",
+        "image":"../src/Images/cars/Tata Nexon.PNG"
+    },
+
+    {
+        "name":"Tata Punch",
+        "price":"765",
+        "year":"2015",
+        "speed":"7.6",
+        "fuel":"Gasoline",
+        "image":"../src/Images/cars/Tata Punch.PNG"
+    }
+    
+]
